@@ -11,7 +11,7 @@
     "minimist": "^1.1.0",
     "node-jsx": "^0.13.3",
     "react": "^0.14.0",
-    "react-tools": "^0.12.0",
+    "react-tools": "^0.13.3",
     "swarm": "^0.3.25",
     "ws": "^5.2.3",
     "@snyk/protect": "latest"
